@@ -8,7 +8,7 @@
 
 ## Check it out!
 
-Should be in the release page [HERE]()
+Latest version [HERE](https://github.com/ravensiris/cv/releases/download/v1.0/cv.pdf)
 
 ## How to Use
 
