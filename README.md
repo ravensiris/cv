@@ -8,7 +8,7 @@
 
 ## Check it out!
 
-Latest version [HERE](https://github.com/ravensiris/cv/releases/download/v1.0/cv.pdf)
+Latest version [HERE](https://github.com/ravensiris/cv/releases/download/v2.0/cv.pdf)
 
 ## How to Use
 
